@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace SkillNTime
 {
-    public class SkillNTimeModel
+    public class Mainpage
     {
         public int Month { get; set; }
         public int day { get; set; }
